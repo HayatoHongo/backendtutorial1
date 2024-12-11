@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "node-fetch": "^3.3.2"
-  }
+  },
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
